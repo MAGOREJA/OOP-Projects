@@ -1,0 +1,6 @@
+D:\Business\LibraryofLMS\LibraryofLMS\bin\Debug\LibraryofLMS.dll
+D:\Business\LibraryofLMS\LibraryofLMS\bin\Debug\LibraryofLMS.pdb
+D:\Business\LibraryofLMS\LibraryofLMS\obj\Debug\LibraryofLMS.csproj.AssemblyReference.cache
+D:\Business\LibraryofLMS\LibraryofLMS\obj\Debug\LibraryofLMS.csproj.CoreCompileInputs.cache
+D:\Business\LibraryofLMS\LibraryofLMS\obj\Debug\LibraryofLMS.dll
+D:\Business\LibraryofLMS\LibraryofLMS\obj\Debug\LibraryofLMS.pdb
